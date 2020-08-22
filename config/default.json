@@ -1,3 +1,4 @@
 {
-  "mongoURI": "mongodb+srv://raja123:raja123@devlink.fbc4d.mongodb.net/<dbname>?retryWrites=true&w=majority"
+  "mongoURI": "mongodb+srv://raja123:raja123@devlink.fbc4d.mongodb.net/<dbname>?retryWrites=true&w=majority",
+  "jwtsecret": "mysecrettoken"
 }
