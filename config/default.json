@@ -1,4 +1,6 @@
 {
   "mongoURI": "mongodb+srv://raja123:raja123@devlink.fbc4d.mongodb.net/<dbname>?retryWrites=true&w=majority",
-  "jwtsecret": "mysecrettoken"
+  "jwtsecret": "mysecrettoken",
+  "githubClientId": "8cc7d6c2fdcce751a61d",
+  "githubSecret": "77dc5d37dc335a9ff21281f920eed4862f82c861"
 }
